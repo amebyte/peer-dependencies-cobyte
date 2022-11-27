@@ -1,0 +1,1 @@
+console.log('这是一个测试 peerDependencies 属性相关特性的包')
